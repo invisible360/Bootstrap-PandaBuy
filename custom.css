@@ -1,3 +1,11 @@
 .catagory img {
     width: 30%;
 }
+
+.my-btn {
+    background-image: linear-gradient(to bottom,  #FF589B 0%, #FF136F);
+}
+
+.my-btn:hover span {
+    color: black;
+}
